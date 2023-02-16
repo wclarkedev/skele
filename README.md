@@ -26,9 +26,9 @@ Default styled elements:
 
 Classes:
 - Apply default styles: `.skele:default`
-- Apply specific default style: (Apply `=`, Remove `-`)
+- Apply specific default style: (Apply `=`, Remove `/`)
   - Tables `.skele:default=tbl`
-  - Text `.skele:default=text`
+  - Text `.skele:default/text`
   - Headings `.skele:default=h`
   - Paragraphs `.skele:default=p`
   - Fonts `.skele:default=ff`
